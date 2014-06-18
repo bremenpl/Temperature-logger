@@ -1,0 +1,4 @@
+Added Component: Designator=R15(RESC1608N)
+Added Pin To Net: NetName=LCD_BL Pin=R15-1
+Added Pin To Net: NetName=5V Pin=R15-2
+Added Member To Class: ClassName=schemat Member=Component R15 3k

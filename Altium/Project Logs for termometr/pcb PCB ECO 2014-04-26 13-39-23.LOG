@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=5V Pin=LCD1-15
+Removed Pin From Net: NetName=NetLCD1_16 Pin=LCD1-16
+Removed Pin From Net: NetName=5V Pin=R15-1
+Removed Pin From Net: NetName=V0 Pin=R15-2
+Removed Pin From Net: NetName=GND Pin=U4-1
+Removed Pin From Net: NetName=LCD_V0 Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=LCD_BL Pin=U4-4
+Removed Pin From Net: NetName=LED- Pin=U4-5
+Removed Pin From Net: NetName=LED- Pin=U4-6
+Removed Pin From Net: NetName=V0 Pin=U4-7
+Removed Pin From Net: NetName=V0 Pin=U4-8
+Removed Member From Class: ClassName=schemat Member=R15
+Removed Member From Class: ClassName=schemat Member=U4
+Added Component: Designator=Q5(SOT95P230-3L)
+Added Pin To Net: NetName=LED- Pin=LCD1-15
+Added Pin To Net: NetName=GND Pin=LCD1-16
+Added Pin To Net: NetName=NetLCD1_16 Pin=Q5-1
+Added Pin To Net: NetName=LCD_BL Pin=Q5-2
+Added Pin To Net: NetName=5V Pin=Q5-3
+Change Net Name : Old Net Name=LED- New Net Name=NetLCD1_15
+Change Net Name : Old Net Name=NetLCD1_16 New Net Name=NetQ5_1
+Added Member To Class: ClassName=schemat Member=Component Q5 AP2301

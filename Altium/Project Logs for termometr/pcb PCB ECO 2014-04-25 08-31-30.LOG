@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=5V Pin=LCD1-3
+Removed Pin From Net: NetName=GND Pin=R12-1
+Added Component: Designator=R15(RESC1608N)
+Added Component: Designator=U4(SO-8_L)
+Added Pin To Net: NetName=5V Pin=R15-1
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=LCD_BL Pin=U1-22
+Added Pin To Net: NetName=LCD_BL Pin=U4-4
+Added Net: Name=LCD_BL
+Added Pin To Net: NetName=LCD_V0 Pin=U1-32
+Added Pin To Net: NetName=LCD_V0 Pin=U4-2
+Added Net: Name=LCD_V0
+Added Pin To Net: NetName=LED- Pin=R12-1
+Added Pin To Net: NetName=LED- Pin=U4-5
+Added Pin To Net: NetName=LED- Pin=U4-6
+Added Net: Name=LED-
+Added Pin To Net: NetName=V0 Pin=LCD1-3
+Added Pin To Net: NetName=V0 Pin=R15-2
+Added Pin To Net: NetName=V0 Pin=U4-7
+Added Pin To Net: NetName=V0 Pin=U4-8
+Added Net: Name=V0
+Added Member To Class: ClassName=schemat Member=Component R15 100R
+Added Member To Class: ClassName=schemat Member=Component U4 IPS1052GPbF

@@ -1,0 +1,10 @@
+A:\Dropbox\programowanie\visual studio projects\termometr_manager\termometr_manager\bin\Debug\termometr_manager.exe.config
+A:\Dropbox\programowanie\visual studio projects\termometr_manager\termometr_manager\obj\Debug\termometr_manager.csprojResolveAssemblyReference.cache
+A:\Dropbox\programowanie\visual studio projects\termometr_manager\termometr_manager\obj\Debug\termometr_manager.Properties.Resources.resources
+A:\Dropbox\programowanie\visual studio projects\termometr_manager\termometr_manager\obj\Debug\termometr_manager.csproj.GenerateResource.Cache
+A:\Dropbox\programowanie\visual studio projects\termometr_manager\termometr_manager\bin\Debug\termometr_manager.exe
+A:\Dropbox\programowanie\visual studio projects\termometr_manager\termometr_manager\bin\Debug\termometr_manager.pdb
+A:\Dropbox\programowanie\visual studio projects\termometr_manager\termometr_manager\obj\Debug\termometr_manager.exe
+A:\Dropbox\programowanie\visual studio projects\termometr_manager\termometr_manager\obj\Debug\termometr_manager.pdb
+A:\Dropbox\programowanie\visual studio projects\termometr_manager\termometr_manager\obj\Debug\termometr_manager.fMainForm.resources
+A:\Dropbox\programowanie\visual studio projects\termometr_manager\termometr_manager\obj\Debug\termometr_manager.fComChooseFom.resources

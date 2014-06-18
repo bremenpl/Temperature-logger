@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=J1 Old Footprint=MOLX-67503-1020_V New Footprint=MOLX-67503-1020_V
+Added Component: Designator=HOLE1(Hole3.2x6mm)
+Added Component: Designator=HOLE2(Hole3.2x6mm)
+Added Component: Designator=HOLE3(Hole3.2x6mm)
+Added Component: Designator=HOLE4(Hole3.2x6mm)
+Added Member To Class: ClassName=schemat Member=Component HOLE1 Mounting Hole
+Added Member To Class: ClassName=schemat Member=Component HOLE2 Mounting Hole
+Added Member To Class: ClassName=schemat Member=Component HOLE3 Mounting Hole
+Added Member To Class: ClassName=schemat Member=Component HOLE4 Mounting Hole

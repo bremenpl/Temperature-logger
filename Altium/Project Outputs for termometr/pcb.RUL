@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: A:\Dropbox\altium\termometr pamiec\pcb.PcbDoc
+RuleKind=Clearance|RuleName=shield2polygon|Scope=Board|Minimum=25.00
+RuleKind=Clearance|RuleName=polygons|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.00
+RuleKind=Width|RuleName=SHIELD|Scope=Board|Minimum=50.00
+RuleKind=Width|RuleName=12V|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=GND|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=5V|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=24V|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

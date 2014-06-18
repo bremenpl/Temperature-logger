@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Termometr_pamiec", "Termometr_pamiec\Termometr_pamiec.cproj", "{2F8D1998-0C23-419C-B1E2-6446D1AE3A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F8D1998-0C23-419C-B1E2-6446D1AE3A1E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{2F8D1998-0C23-419C-B1E2-6446D1AE3A1E}.Debug|AVR.Build.0 = Debug|AVR
+		{2F8D1998-0C23-419C-B1E2-6446D1AE3A1E}.Release|AVR.ActiveCfg = Release|AVR
+		{2F8D1998-0C23-419C-B1E2-6446D1AE3A1E}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
