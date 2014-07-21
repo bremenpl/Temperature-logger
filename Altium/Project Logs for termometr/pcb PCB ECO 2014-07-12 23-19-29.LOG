@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=LCD1-1
+Removed Pin From Net: NetName=5V Pin=LCD1-2
+Removed Pin From Net: NetName=LCD_V0 Pin=U1-32
+Added Component: Designator=VR?(BOUR-3006P-3_V)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=5V Pin=LCD1-1
+Added Pin To Net: NetName=GND Pin=LCD1-2
+Added Pin To Net: NetName=GND Pin=VR?-1
+Added Pin To Net: NetName=LCD_V0 Pin=VR?-2
+Added Pin To Net: NetName=5V Pin=VR?-3
+Change Net Name : Old Net Name=LCD_V0 New Net Name=NetLCD1_3
+Added Member To Class: ClassName=schemat Member=Component VR? 3006P-1-103ZLF
